@@ -1,7 +1,7 @@
-buat database dengan nama db_karyawan lalu import file sqlnya
+1. buat database dengan nama db_karyawan lalu import file sqlnya
 
 
-download mysql connector https://downloads.mysql.com/archives/c-j/
+2. download mysql connector https://downloads.mysql.com/archives/c-j/
 
 
-tambah mysql driver di library project
+3. tambah mysql driver di library project
